@@ -1,1 +1,9 @@
 jupyterlab
+python-dotenv
+llama_index
+llama-index-embeddings-huggingface
+llama-index-llms-gemini
+llama-index
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+google-generativeai>=0.3.0
